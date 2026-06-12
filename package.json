@@ -1,0 +1,17 @@
+{
+  "name": "localview",
+  "version": "1.0.0",
+  "description": "Simple local network scanner",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "network",
+    "scanner",
+    "lan",
+    "localview"
+  ],
+  "author": "?DEV",
+  "license": "MIT"
+}
