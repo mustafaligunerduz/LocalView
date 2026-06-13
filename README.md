@@ -13,6 +13,6 @@ LocalView is a simple local network scanner that helps you discover devices conn
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/LocalView.git
+git clone https://github.com/mustafaligunerduz/LocalView.git
 cd LocalView
 npm install
